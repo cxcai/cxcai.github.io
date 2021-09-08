@@ -1,13 +1,6 @@
 # jemdoc: menu{menu}{research.html}
 = Research
 
-== Research Interests
-- Machine learning
-- High dimensional statistics
-- Convex and non-convex optimization
-- Information theory
-
-
 == Publications and Preprints
 - [https://arxiv.org/abs/2104.03298 Minimax Estimation of Linear Functions of Eigenvectors in the Face of Small Eigen-Gaps  ] \n
 Gen Li, *Changxiao Cai*, H.~Vincent Poor, Yuantao Gu, Yuxin Chen
