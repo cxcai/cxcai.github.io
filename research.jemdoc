@@ -1,15 +1,30 @@
 # jemdoc: menu{menu}{research.html}
 = Research
 
+== Research Interests
+- Mathematical data science
+- High dimensional statistics
+- Statistical machine learning
+- Convex and non-convex optimization
+- Information theory
+
+
 == Publications and Preprints
+
+- [https://arxiv.org/abs/2211.12612 Transfer Learning for Contextual Multi-armed Bandits  ] \n
+*Changxiao Cai*, T.~Tony Cai, Hongzhe Li
+\n
+arXiv preprint arXiv:2211.12612, 2022
+
 - [https://arxiv.org/abs/2104.03298 Minimax Estimation of Linear Functions of Eigenvectors in the Face of Small Eigen-Gaps  ] \n
-Gen Li, *Changxiao Cai*, H.~Vincent Poor, Yuantao Gu, Yuxin Chen
+Gen Li, *Changxiao Cai*, H.~Vincent Poor, Yuxin Chen
 \n
 arXiv preprint arXiv:2104.03298, 2021
 
-- [https://arxiv.org/abs/2102.06548 Is Q- Learning Minimax Optimal? A Tight Sample Complexity Analysis] \n
-Gen Li, *Changxiao Cai*, Yuxin Chen, Yuantao Gu, Yuting Wei, Yuejie Chi \n
-arXiv preprint arXiv:2102.06548, 2021
+- [https://arxiv.org/abs/2102.06548 Is Q-Learning Minimax Optimal? A Tight Sample Complexity Analysis] \n
+Gen Li, *Changxiao Cai*, Yuxin Chen, Yuting Wei, Yuejie Chi \n
+arXiv preprint arXiv:2102.06548, 2021 \n
+accepted in part to ICML 2021 [https://proceedings.mlr.press/v139/li21b.html \[ICML version\]]
 
 - [https://arxiv.org/abs/1910.04267 Subspace Estimation from Unbalanced and Incomplete Data Matrices: $\ell_{2,\infty}$ Statistical Guarantees] \n
 *Changxiao Cai*, Gen Li, Yuejie Chi, H.~Vincent Poor, Yuxin Chen \n
@@ -17,11 +32,12 @@ The Annals of Statistics, 49(2):944–967, 2021
 
 - [https://arxiv.org/abs/2006.08580 Uncertainty Quantification for Nonconvex Tensor Completion: Confidence Intervals, Heteroscedasticity and Optimality] \n
 *Changxiao Cai*, H.~Vincent Poor, Yuxin Chen \n
-accepted in part to ICML 2020.
+IEEE Transactions on Information Theory, to appear, 2022+; \n
+accepted in part to ICML 2020 [https://proceedings.mlr.press/v119/cai20c.html \[ICML version\]]
     
 - [https://arxiv.org/abs/1911.04436 Nonconvex Low-Rank Tensor Completion from Noisy Data] \n
 *Changxiao Cai*, Gen Li, H.~Vincent Poor, Yuxin Chen \n
-Operations Research, to appear, 2021+; \n
+Operations Research, 70(2):1219-1237; \n
 accepted in part to NeurIPS 2019. [https://papers.nips.cc/paper/8462-nonconvex-low-rank-tensor-completion-from-noisy-data \[NeurIPS version\]]
    
     
