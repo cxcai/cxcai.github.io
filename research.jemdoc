@@ -1,0 +1,75 @@
+# jemdoc: menu{menu}{research.html}
+= Research
+
+== Research Interests
+#- Mathematical data science
+- Diffusion model
+- Reinforcement learning
+- High-dimensional statistics
+- Convex and non-convex optimization
+#- Information theory
+
+
+== Preprints
+
+- [./DiffusionGMM.pdf Surprises in sampling Gaussian mixtures using diffusion models  ] \n
+Gen Li\*, *Changxiao Cai*\*, Yuting Wei (* = equal contribution)
+\n
+
+- [https://arxiv.org/abs/2503.09583 Minimax Optimality of the Probability Flow ODE for Diffusion Models  ] \n
+*Changxiao Cai*, Gen Li
+\n
+
+- [https://arxiv.org/abs/2410.23285 Provable Acceleration for Diffusion Models under Minimal Assumptions  ] \n
+Gen Li\*, *Changxiao Cai*\* (* = equal contribution)
+\n
+
+- [https://arxiv.org/abs/2410.03651 Minimax-Optimal Trust-Aware Multi-Armed Bandits  ] \n
+*Changxiao Cai*, Jiacheng Zhang (alphabetical order)
+\n
+
+== Publications
+
+
+- [https://arxiv.org/abs/2104.03298 Minimax Estimation of Linear Functions of Eigenvectors in the Face of Small Eigen-Gaps  ] \n
+Gen Li, *Changxiao Cai*, H.~Vincent Poor, Yuxin Chen
+\n
+IEEE Transactions on Information Theory 71.2 (2025): 1200-1247.
+
+- [https://arxiv.org/abs/2211.12612 Transfer Learning for Contextual Multi-Armed Bandits  ] \n
+*Changxiao Cai*, T.~Tony Cai, Hongzhe Li
+\n
+The Annals of Statistics 52.1 (2024): 207-232.
+
+
+- [https://arxiv.org/abs/2102.06548 Is Q-Learning Minimax Optimal? A Tight Sample Complexity Analysis] \n
+Gen Li, *Changxiao Cai*, Yuxin Chen, Yuting Wei, Yuejie Chi \n
+Operations Research 72.1 (2024): 222-236. \n
+accepted in part to ICML 2021 [https://proceedings.mlr.press/v139/li21b.html \[ICML version\]].
+
+- [https://arxiv.org/abs/1910.04267 Subspace Estimation from Unbalanced and Incomplete Data Matrices: $\ell_{2,\infty}$ Statistical Guarantees] \n
+*Changxiao Cai*, Gen Li, Yuejie Chi, H.~Vincent Poor, Yuxin Chen \n
+The Annals of Statistics, 49 (2): 944–967, 2021.
+
+- [https://arxiv.org/abs/2006.08580 Uncertainty Quantification for Nonconvex Tensor Completion: Confidence Intervals, Heteroscedasticity and Optimality] \n
+*Changxiao Cai*, H.~Vincent Poor, Yuxin Chen \n
+IEEE Transactions on Information Theory, 69 (1): 407-452, 2023 \n
+accepted in part to ICML 2020 [https://proceedings.mlr.press/v119/cai20c.html \[ICML version\]].
+    
+- [https://arxiv.org/abs/1911.04436 Nonconvex Low-Rank Tensor Completion from Noisy Data] \n
+*Changxiao Cai*, Gen Li, H.~Vincent Poor, Yuxin Chen \n
+Operations Research, 70 (2): 1219-1237, 2022 \n
+accepted in part to Conference on Neural Information Processing Systems (NeurIPS) 2019 [https://papers.nips.cc/paper/8462-nonconvex-low-rank-tensor-completion-from-noisy-data \[NeurIPS version\]].
+   
+    
+- [https://www.mdpi.com/1099-4300/21/10/969 Conditional Rényi Divergence Saddlepoint and the Maximization of $\alpha$-Mutual Information] \n 
+*Changxiao Cai*, Sergio Verdú \n
+Entropy, Special Issue on Probabilistic Methods in Information Theory, Hypothesis Testing, and Coding, 21 (10): 969, 2019.
+    
+- [https://ieeexplore.ieee.org/document/7442771 Structured Low-Rank Matrix Factorization for Haplotype Assembly] \n
+*Changxiao Cai*, Sujay Sanghavi, Haris Vikalo \n
+IEEE Journal of Selected Topics in Signal Processing, Special Issue on Structured Matrices in Signal and Data Processing, 10 (4): 647--657, 2016.
+    
+- [https://ieeexplore.ieee.org/document/7472155 Structurally-constrained Gradient Descent for Matrix Factorization in Haplotype Assembly Problems] \n
+*Changxiao Cai*, Sujay Sanghavi, Haris Vikalo \n
+IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2016.
