@@ -1,0 +1,29 @@
+# jemdoc: menu{menu}{index.html}
+= Changxiao Cai
+
+~~~
+{}{img_left}{./bio.jpg}{alt text}{210}{330}{}
+I am an assistant professor of [https://ioe.engin.umich.edu/ Industrial and Operations Engineering] and an affiliate faculty member of [https://ece.engin.umich.edu/ Electrical and Computer
+Engineering] at [https://umich.edu/ University of Michigan]. \n
+
+Previously, I was a postdoctoral researcher at University of Pennsylvania, advised by [http://www-stat.wharton.upenn.edu/~tcai/  T.~Tony Cai] and [http://statgene.med.upenn.edu/ Hongzhe Li]. I obtained my Ph.D.~in Electrical Engineering at Princeton University in 2021, advised by [http://yuxinchen2020.github.io Yuxin Chen] and [https://ee.princeton.edu/people/h-vincent-poor H.~Vincent Poor]. I have also worked with Sergio Verdú at Princeton. Prior to this, I received my B.E.~in Electronic Engineering from Tsinghua University in 2016. \n
+
+#I am broadly interested in theories and algorithms for mathematical data science, high-dimensional statistics, optimization and machine learning. More specifically, I develop algorithms to extract information from high-dimensional and structured data, and design methods for optimal data-driven decision-making. The central goal is to achieve provably optimal statistical guarantees and computational efficiency. 
+
+I am broadly interested in mathematical data science, with a recent focus on diffusion model, reinforcement learning, high-dimensional statistics, and nonconvex optimization.
+\n\n
+
+E-mail: cxcai \[at\] umich \[dot\] edu  \n
+Office: 2797 IOE, 1205 Beal Ave., Ann Arbor, MI 48109 \n
+[https://scholar.google.com/citations?user=ynnb3QcAAAAJ&hl=en&oi=ao Google Scholar] \n
+
+
+~~~
+
+#== Openings
+#I am seeking highly self-motivated students with strong mathematical backgrounds and interests in machine learning theory, statistics, and optimization. If you are interested in working with me, please email me with a CV and a transcript.
+
+== News
+- A new paper on minimax optimality of ODE-based samplers in diffusion models: [https://arxiv.org/abs/2503.09583 Minimax Optimality of the Probability Flow ODE for Diffusion Models  ]
+- A new paper on acceleration for diffusion models: [https://arxiv.org/abs/2410.23285 Provable Acceleration for Diffusion Models under Minimal Assumptions  ]
+- A new paper on the trust-aware multi-armed bandit: [https://arxiv.org/abs/2410.03651 Minimax-Optimal Trust-Aware Multi-Armed Bandits  ]
