@@ -12,7 +12,12 @@
 
 == Preprints
 
-- [./DiffusionGMM.pdf Surprises in sampling Gaussian mixtures using diffusion models  ] \n
+- [https://arxiv.org/pdf/2505.21400 A Convergence Theory for Diffusion Language Models: An Information-Theoretic Perspective  ] \n
+Gen Li\*, *Changxiao Cai*\* (* = equal contribution)
+\n
+
+- [https://arxiv.org/abs/2504.05300 Dimension-Free Convergence of Diffusion Models for
+Approximate Gaussian Mixtures  ] \n
 Gen Li\*, *Changxiao Cai*\*, Yuting Wei (* = equal contribution)
 \n
 
