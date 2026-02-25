@@ -3,17 +3,17 @@
 
 == Research Interests
 #- Mathematical data science
-- Diffusion model
+- Diffusion models
 - Reinforcement learning
 - High-dimensional statistics
 - Convex and non-convex optimization
-#- Information theory
+- Information theory
 
 
 == Preprints
 
-- [https://arxiv.org/pdf/2505.21400 A Convergence Theory for Diffusion Language Models: An Information-Theoretic Perspective  ] \n
-Gen Li\*, *Changxiao Cai*\* (* = equal contribution)
+- [https://arxiv.org/abs/2602.20126 Adaptation to Intrinsic Dependence in Diffusion Language Models  ] \n
+Yunxiao Zhao, *Changxiao Cai*
 \n
 
 - [https://arxiv.org/abs/2504.05300 Dimension-Free Convergence of Diffusion Models for
@@ -35,6 +35,10 @@ Gen Li\*, *Changxiao Cai*\* (* = equal contribution)
 
 == Publications
 
+- [https://arxiv.org/pdf/2505.21400 Breaking AR's Sampling Bottleneck: Provable Acceleration via Diffusion Language Models  ] \n
+Gen Li\*, *Changxiao Cai*\* (* = equal contribution)
+\n
+NeurIPS 2025
 
 - [https://arxiv.org/abs/2104.03298 Minimax Estimation of Linear Functions of Eigenvectors in the Face of Small Eigen-Gaps  ] \n
 Gen Li, *Changxiao Cai*, H.~Vincent Poor, Yuxin Chen
@@ -64,7 +68,7 @@ accepted in part to ICML 2020 [https://proceedings.mlr.press/v119/cai20c.html \[
 - [https://arxiv.org/abs/1911.04436 Nonconvex Low-Rank Tensor Completion from Noisy Data] \n
 *Changxiao Cai*, Gen Li, H.~Vincent Poor, Yuxin Chen \n
 Operations Research, 70 (2): 1219-1237, 2022 \n
-accepted in part to Conference on Neural Information Processing Systems (NeurIPS) 2019 [https://papers.nips.cc/paper/8462-nonconvex-low-rank-tensor-completion-from-noisy-data \[NeurIPS version\]].
+accepted in part to NeurIPS 2019 [https://papers.nips.cc/paper/8462-nonconvex-low-rank-tensor-completion-from-noisy-data \[NeurIPS version\]].
    
     
 - [https://www.mdpi.com/1099-4300/21/10/969 Conditional Rényi Divergence Saddlepoint and the Maximization of $\alpha$-Mutual Information] \n 

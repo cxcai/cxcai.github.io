@@ -10,7 +10,7 @@ Previously, I was a postdoctoral researcher at University of Pennsylvania, advis
 
 #I am broadly interested in theories and algorithms for mathematical data science, high-dimensional statistics, optimization and machine learning. More specifically, I develop algorithms to extract information from high-dimensional and structured data, and design methods for optimal data-driven decision-making. The central goal is to achieve provably optimal statistical guarantees and computational efficiency. 
 
-I am broadly interested in mathematical data science, with a recent focus on diffusion model, reinforcement learning, high-dimensional statistics, and nonconvex optimization.
+I am broadly interested in mathematical data science, with a recent focus on diffusion models, reinforcement learning, high-dimensional statistics, and nonconvex optimization.
 \n\n
 
 E-mail: cxcai \[at\] umich \[dot\] edu  \n
@@ -24,8 +24,9 @@ Office: 2797 IOE, 1205 Beal Ave., Ann Arbor, MI 48109 \n
 #I am seeking highly self-motivated students with strong mathematical backgrounds and interests in machine learning theory, statistics, and optimization. If you are interested in working with me, please email me with a CV and a transcript.
 
 == News
-- A new paper on convergence analysis of diffusion models for LLMs: [https://arxiv.org/pdf/2505.21400 A Convergence Theory for Diffusion Language Models: An Information-Theoretic Perspective  ]
-- A new paper on (nearly) dimension-free convergence of DDPM for approximate GMMs: [https://arxiv.org/abs/2504.05300 Dimension-Free Convergence of Diffusion Models for Approximate Gaussian Mixtures  ]
+- A new paper on dependence-adaptive unmasking schedules for diffusion LMs: [https://arxiv.org/abs/2602.20126 Adaptation to Intrinsic Dependence in Diffusion Language Models  ]
+- A new paper on sampling convergence analysis of diffusion LMs: [https://arxiv.org/abs/2505.21400 Breaking AR's Sampling Bottleneck: Provable Acceleration via Diffusion Language Models  ] accepted to NeurIPS 2025 
+- A new paper on (nearly) dimension-free convergence rate of DDPM: [https://arxiv.org/abs/2504.05300 Dimension-Free Convergence of Diffusion Models for Approximate Gaussian Mixtures  ]
 - A new paper on minimax optimality of ODE-based samplers in diffusion models: [https://arxiv.org/abs/2503.09583 Minimax Optimality of the Probability Flow ODE for Diffusion Models  ]
-- A new paper on acceleration for diffusion models: [https://arxiv.org/abs/2410.23285 Provable Acceleration for Diffusion Models under Minimal Assumptions  ]
+- A new paper on a training-free accelerated sampling procedure for diffusion models: [https://arxiv.org/abs/2410.23285 Provable Acceleration for Diffusion Models under Minimal Assumptions  ]
 - A new paper on the trust-aware multi-armed bandit: [https://arxiv.org/abs/2410.03651 Minimax-Optimal Trust-Aware Multi-Armed Bandits  ]
