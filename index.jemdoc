@@ -24,6 +24,7 @@ Office: 2797 IOE, 1205 Beal Ave., Ann Arbor, MI 48109 \n
 #I am seeking highly self-motivated students with strong mathematical backgrounds and interests in machine learning theory, statistics, and optimization. If you are interested in working with me, please email me with a CV and a transcript.
 
 == News
+- A new paper on provable efficiency of confidence-based decoding strategies for diffusion LMs: [https://arxiv.org/abs/2603.22248 Confidence-Based Decoding is Provably Efficient for Diffusion Language Models  ]
 - A new paper on dependence-adaptive unmasking schedules for diffusion LMs: [https://arxiv.org/abs/2602.20126 Adaptation to Intrinsic Dependence in Diffusion Language Models  ]
 - A new paper on sampling convergence analysis of diffusion LMs: [https://arxiv.org/abs/2505.21400 Breaking AR's Sampling Bottleneck: Provable Acceleration via Diffusion Language Models  ] accepted to NeurIPS 2025 
 - A new paper on (nearly) dimension-free convergence rate of DDPM: [https://arxiv.org/abs/2504.05300 Dimension-Free Convergence of Diffusion Models for Approximate Gaussian Mixtures  ]
