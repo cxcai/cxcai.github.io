@@ -25,9 +25,11 @@ Office: 2797 IOE, 1205 Beal Ave., Ann Arbor, MI 48109 \n
 
 == News
 - A new paper on provable efficiency of confidence-based decoding strategies for diffusion LMs: [https://arxiv.org/abs/2603.22248 Confidence-Based Decoding is Provably Efficient for Diffusion Language Models  ]
-- A new paper on dependence-adaptive unmasking schedules for diffusion LMs: [https://arxiv.org/abs/2602.20126 Adaptation to Intrinsic Dependence in Diffusion Language Models  ]
+- A new paper on dependence-adaptive decoding strategies for diffusion LMs: [https://arxiv.org/abs/2602.20126 Adaptation to Intrinsic Dependence in Diffusion Language Models  ]
+- A new paper on low-dimensional adaptation of diffusion models: [https://arxiv.org/abs/2605.30153 Diffusion Models Are Statistically Optimal for Learning Low-Dimensional Multi-Modal Distributions  ] accepted to ICML 2026
+- A new paper on accelerating diffusion samplers via forward-value discretization: [https://arxiv.org/abs/2512.24927 Are First-Order Diffusion Samplers Really Slower? A Fast Forward-Value Approach  ] accepted to ICML 2026
 - A new paper on sampling convergence analysis of diffusion LMs: [https://arxiv.org/abs/2505.21400 Breaking AR's Sampling Bottleneck: Provable Acceleration via Diffusion Language Models  ] accepted to NeurIPS 2025 
-- A new paper on (nearly) dimension-free convergence rate of DDPM: [https://arxiv.org/abs/2504.05300 Dimension-Free Convergence of Diffusion Models for Approximate Gaussian Mixtures  ]
+- A new paper on (nearly) dimension-free convergence rate of DDPM: [https://arxiv.org/abs/2504.05300 Dimension-Free Convergence of Diffusion Models for Approximate Gaussian Mixtures  ] accepted to ICML 2026
 - A new paper on minimax optimality of ODE-based samplers in diffusion models: [https://arxiv.org/abs/2503.09583 Minimax Optimality of the Probability Flow ODE for Diffusion Models  ]
 - A new paper on a training-free accelerated sampling procedure for diffusion models: [https://arxiv.org/abs/2410.23285 Provable Acceleration for Diffusion Models under Minimal Assumptions  ]
 - A new paper on the trust-aware multi-armed bandit: [https://arxiv.org/abs/2410.03651 Minimax-Optimal Trust-Aware Multi-Armed Bandits  ]

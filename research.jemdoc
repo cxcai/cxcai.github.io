@@ -12,17 +12,13 @@
 
 == Preprints
 
+
 - [https://arxiv.org/abs/2603.22248 Confidence-Based Decoding is Provably Efficient for Diffusion Language Models  ] \n
 *Changxiao Cai*, Gen Li
 \n
 
 - [https://arxiv.org/abs/2602.20126 Adaptation to Intrinsic Dependence in Diffusion Language Models  ] \n
 Yunxiao Zhao, *Changxiao Cai*
-\n
-
-- [https://arxiv.org/abs/2504.05300 Dimension-Free Convergence of Diffusion Models for
-Approximate Gaussian Mixtures  ] \n
-Gen Li\*, *Changxiao Cai*\*, Yuting Wei (* = equal contribution)
 \n
 
 - [https://arxiv.org/abs/2503.09583 Minimax Optimality of the Probability Flow ODE for Diffusion Models  ] \n
@@ -39,9 +35,21 @@ Gen Li\*, *Changxiao Cai*\* (* = equal contribution)
 
 == Publications
 
+
+- [https://arxiv.org/abs/2605.30153 Diffusion Models Are Statistically Optimal for Learning Low-Dimensional Multi-Modal Distributions  ] \n
+Jingda Wu, *Changxiao Cai* \n
+accepted in part to ICML 2026
+
+- [https://arxiv.org/abs/2512.24927 Are First-Order Diffusion Samplers Really Slower? A Fast Forward-Value Approach  ] \n
+Yuchen Jiao\*, Na Li\*, *Changxiao Cai*, Gen Li (* = equal contribution) \n
+accepted in part to ICML 2026
+
+- [https://arxiv.org/abs/2504.05300 Dimension-Free Convergence of Diffusion Models for Approximate Gaussian Mixtures  ] \n
+Gen Li\*, *Changxiao Cai*\*, Yuting Wei (* = equal contribution) \n
+ICML 2026
+
 - [https://arxiv.org/pdf/2505.21400 Breaking AR's Sampling Bottleneck: Provable Acceleration via Diffusion Language Models  ] \n
-Gen Li\*, *Changxiao Cai*\* (* = equal contribution)
-\n
+Gen Li\*, *Changxiao Cai*\* (* = equal contribution) \n
 NeurIPS 2025
 
 - [https://arxiv.org/abs/2104.03298 Minimax Estimation of Linear Functions of Eigenvectors in the Face of Small Eigen-Gaps  ] \n
